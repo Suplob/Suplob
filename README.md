@@ -38,7 +38,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
+<img align="left" alt="Suplob Roy
+  s Github Stats" src="https://github-readme-stats.vercel.app/api?username=suplobroy&show_icons=true&hide_border=true" />
 
 </details>
 
