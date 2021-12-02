@@ -1,4 +1,4 @@
-### Hi there, I'm Suplob Roy - [Suplob Roy][website] 👋
+### Hi 👋, I'm Suplob Roy - [Suplob Roy][website]
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suplob&label=Profile%20views&color=9516da&style=flat" alt="Suplob's Profile Views" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 Reach me at parbaroy30@gmail.com
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Know about my <a href='https://drive.google.com/file/d/1PilXB45WI4EDzeKRwPtp2CMUY2GfqBx0/view?usp=sharing'>experiences</a>
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking forward to learn mobile application development
+- 🥅 Know about my <a target='_blank' href='https://drive.google.com/file/d/1PilXB45WI4EDzeKRwPtp2CMUY2GfqBx0/view?usp=sharing'>experiences</a>
+- ⚡ Fun fact: I'm a gamer
 
 ### Connect with me:
 
