@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Suplob Roy - [Suplob Roy][website]
 
-<br>
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suplob&label=Profile%20views&color=9516da&style=flat" alt="Suplob's Profile Views" /> </p>
 
 ## A MongoDB, ExpressJS, ReactJS, NodeJS Developer
@@ -35,6 +35,7 @@
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
 
 <br />
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
