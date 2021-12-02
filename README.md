@@ -33,7 +33,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />]
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />]
-[<img align="left" alt="React Native" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />]
 
 <br />
 
@@ -46,3 +45,16 @@
 
 [website]: https://suplob-roy.netlify.app/
 [linkedin]: https://www.linkedin.com/in/suplobroy/
+[vscode]: https://code.visualstudio.com/
+[html]: https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,scripting%20languages%20such%20as%20JavaScript.&text=HTML%20elements%20are%20the%20building%20blocks%20of%20HTML%20pages.
+[css]: https://en.wikipedia.org/wiki/CSS
+[sass]: https://sass-lang.com/
+[javascript]: https://www.javascript.com/
+[reactjs]: https://reactjs.org/
+[nodejs]: https://nodejs.dev/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[terminal]: https://en.wikipedia.org/wiki/Computer_terminal
+[python]: https://www.python.org/
+[typescript]: https://www.typescriptlang.org/
