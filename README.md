@@ -6,7 +6,6 @@
 ## A MongoDB, ExpressJS, ReactJS, NodeJS Developer
 
 - 🔭 Reach me at parbaroy30@gmail.com
-- 👯 I’m looking forward to learn mobile application development
 - 🥅 Know about my <a target='_blank' href='https://drive.google.com/file/d/1PilXB45WI4EDzeKRwPtp2CMUY2GfqBx0/view?usp=sharing'>experiences</a>
 - ⚡ Fun fact: I'm a gamer
 
